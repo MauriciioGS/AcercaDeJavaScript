@@ -1,8 +1,9 @@
 # Acerca De JavaScript
 Trabajo de exposición como introducción a JavaScript para los alumnos de la clase de Negocios Electrónicos y Desarrollo Web de la Facultad de Ingeniería, UNAM 2022-2, Grupo 1
 
+## Video de la exposición: https://youtu.be/2sNS-suxwpE
 ## Repositorio: https://github.com/MauriciioGS/AcercaDeJavaScript
-El documento PDF de la exposición se encuentra en este repositorio: "Javascript.pdf"
+###El documento PDF de la exposición se encuentra en este repositorio: "Javascript.pdf"
 
 ### Referencias y recursos para iniciar o continuar el aprendizaje de este lenguaje de programación
 
