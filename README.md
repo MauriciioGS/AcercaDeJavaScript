@@ -2,6 +2,7 @@
 Trabajo de exposición como introducción a JavaScript para los alumnos de la clase de Negocios Electrónicos y Desarrollo Web de la Facultad de Ingeniería, UNAM 2022-2, Grupo 1
 
 ## Video de la exposición: https://youtu.be/2sNS-suxwpE
+## Video para descarga: https://drive.google.com/drive/folders/1o84hs2nDj4pbBEYhj72IPIpwTaOsnJ7h?usp=sharing
 ## Repositorio: https://github.com/MauriciioGS/AcercaDeJavaScript
 ###El documento PDF de la exposición se encuentra en este repositorio: "Javascript.pdf"
 
